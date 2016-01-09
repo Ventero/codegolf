@@ -1,0 +1,8 @@
+update_interval 0.1
+total_run_times 0
+own_window yes
+double_buffer yes
+cpu_avg_samples 1
+
+TEXT
+${cpugraph cpu3 200,1300 FFDA00 FF3C00}
